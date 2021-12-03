@@ -1,0 +1,3 @@
+rootProject.name = "MyInputMethodHook"
+include ':app'
+include ':inputmethodholder'
